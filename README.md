@@ -3,4 +3,5 @@ All you need to do is fill out the "Managers" and "Players" lists at the top for
 The "Managers" list includes the names of the individuals in your league. 
 The "Players" list includes the players on each of the managers' teams. 
 Please fill out the "Players" list in the order you put the managers in the "Managers" list. For example, Christian's team has Allen Robinson.
+The default setting is for a 1QB league. If your league is Superflex, go to value_df in the second block of code and change the setting to superflex=True.
 Once done filling those out, hit "Runtime" and then "Run All".
